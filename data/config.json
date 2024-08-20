@@ -1,0 +1,51 @@
+{
+    "Setting":{
+        "Tags":{
+            "name":"配置文件默认注释",
+            "default":"",
+            "value":[
+            "-- ",
+            "#",
+            "// ",
+            " "
+            ]
+        },
+        "FileOverlay":{
+            "name":"重名文件是否覆盖",
+            "key":true,
+            "default":true
+        },
+        "FileUploadResultType":{
+            "name":"上传接口返回类型",
+            "key":1,
+            "default":1,
+            "value":[
+                "原文件",
+                "8 code",
+                "12 code",
+                "12 code 有序uuid",
+                "有序uuid",
+                "无序uuid"
+            ]
+        },
+        "IsFilePrefix":{
+            "name":"是否需要文件前缀",
+            "key":false,
+            "default":false
+        },
+        "FilePrefix":{
+            "name":"文件前缀类型",
+            "key":1,
+            "default":1,
+            "value":[
+                "URL前缀",
+                "File目录前缀"
+            ]
+        },
+        "Source":{
+            "name":"默认配置文件",
+            "key":"default",
+            "default":"default"
+        }
+    }
+}
