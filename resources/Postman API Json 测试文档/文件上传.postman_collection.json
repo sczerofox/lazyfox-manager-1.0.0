@@ -1,0 +1,350 @@
+{
+	"info": {
+		"_postman_id": "74c216aa-549b-4cb4-9f40-5cda359d8814",
+		"name": "文件上传",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "35968738"
+	},
+	"item": [
+		{
+			"name": "默认文件上传 API",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/OIP-C.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "默认文件删除 API",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4122/delete?filename=R-C.jpg",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"delete"
+					],
+					"query": [
+						{
+							"key": "filename",
+							"value": "R-C.jpg"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "系统配置文件上传 API",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/R-C.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-system-config",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-system-config"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "文件预览",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4122/preview/asdva.jpg",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"preview",
+						"asdva.jpg"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "文件参数上传 8 code",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/R-C (1).jpg"
+						},
+						{
+							"key": "type",
+							"value": "2",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-parameter",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-parameter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "文件参数上传 12 code",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/asdva.jpg"
+						},
+						{
+							"key": "type",
+							"value": "3",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-parameter",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-parameter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "文件参数上传 12 code 有序 uuid",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/a1.jpg"
+						},
+						{
+							"key": "type",
+							"value": "4",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-parameter",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-parameter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "文件参数上传 有序 uuid",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/20210102074801_84ac6.jpg"
+						},
+						{
+							"key": "type",
+							"value": "5",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-parameter",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-parameter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "文件参数上传 无序 uuid",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/20210516104840_efa71.jpg"
+						},
+						{
+							"key": "type",
+							"value": "6",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-parameter",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-parameter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "文件前缀上传 双参 API",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/asdva.jpg"
+						},
+						{
+							"key": "strType",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "type",
+							"value": "1",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-two-parameter",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-two-parameter"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "本地文件查看参考 (弃用)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/lenovo/Pictures/图书管理项目/头像/OIP-C (2).jpg"
+						},
+						{
+							"key": "strType",
+							"value": "4",
+							"type": "text"
+						},
+						{
+							"key": "type",
+							"value": "2",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:4122/upload-two-parameter",
+					"host": [
+						"localhost"
+					],
+					"port": "4122",
+					"path": [
+						"upload-two-parameter"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
