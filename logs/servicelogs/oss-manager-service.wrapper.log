@@ -1,0 +1,1231 @@
+2024-09-04 00:04:03,611 DEBUG - Starting WinSW in console mode
+2024-09-04 00:04:07,136 DEBUG - Starting WinSW in console mode
+2024-09-04 00:04:07,166 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-09-04 00:04:07,202 INFO  - Service 'Oss Manager Service (OssManagerService)' was installed successfully.
+2024-09-04 00:05:10,665 DEBUG - Starting WinSW in service mode
+2024-09-04 00:05:10,796 INFO  - Starting java -jar "oss-manager-1.2.6.jar"
+2024-09-04 00:05:10,824 INFO  - Started process 1544
+2024-09-04 00:05:10,837 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 00:15:11,019 DEBUG - Starting WinSW in console mode
+2024-09-04 00:15:13,072 DEBUG - Starting WinSW in console mode
+2024-09-04 00:15:13,101 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-04 00:15:13,107 WARN  - Service 'Oss Manager Service (OssManagerService)' is started. It may be impossible to uninstall it.
+2024-09-04 00:15:13,108 INFO  - Service 'Oss Manager Service (OssManagerService)' was uninstalled successfully.
+2024-09-04 00:16:14,413 INFO  - Stopping OssManagerService
+2024-09-04 00:16:14,414 DEBUG - ProcessKill 1544
+2024-09-04 00:16:14,417 DEBUG - Stopping process 1544...
+2024-09-04 00:16:14,608 DEBUG - Process 1544 canceled with code 130.
+2024-09-04 00:16:14,611 INFO  - Finished OssManagerService
+2024-09-04 00:18:06,436 DEBUG - Starting WinSW in console mode
+2024-09-04 00:18:08,393 DEBUG - Starting WinSW in console mode
+2024-09-04 00:18:08,422 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-09-04 00:18:08,440 INFO  - Service 'Oss Manager Service (OssManagerService)' was installed successfully.
+2024-09-04 00:18:59,993 DEBUG - Starting WinSW in service mode
+2024-09-04 00:19:00,125 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 00:19:00,153 INFO  - Started process 10204
+2024-09-04 00:19:00,167 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 00:22:37,812 DEBUG - Starting WinSW in service mode
+2024-09-04 00:22:38,029 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 00:22:38,077 INFO  - Started process 8576
+2024-09-04 00:22:38,091 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 00:38:30,350 INFO  - Stopping OssManagerService
+2024-09-04 00:38:30,351 DEBUG - ProcessKill 8576
+2024-09-04 00:38:30,354 DEBUG - Stopping process 8576...
+2024-09-04 00:38:30,550 DEBUG - Process 8576 canceled with code 130.
+2024-09-04 00:38:30,557 INFO  - Finished OssManagerService
+2024-09-04 00:38:47,630 DEBUG - Starting WinSW in service mode
+2024-09-04 00:38:47,793 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 00:38:47,824 INFO  - Started process 14808
+2024-09-04 00:38:47,838 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 00:38:55,900 DEBUG - Starting WinSW in console mode
+2024-09-04 00:38:57,935 DEBUG - Starting WinSW in console mode
+2024-09-04 00:38:57,968 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-09-04 00:38:57,973 ERROR - A service with ID 'OssManagerService' already exists.
+2024-09-04 00:38:57,976 FATAL - Failed to install the service. 指定的服务已存在。
+2024-09-04 00:39:51,989 DEBUG - Starting WinSW in console mode
+2024-09-04 00:39:54,233 DEBUG - Starting WinSW in console mode
+2024-09-04 00:39:54,263 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-04 00:39:54,270 WARN  - Service 'Oss Manager Service (OssManagerService)' is started. It may be impossible to uninstall it.
+2024-09-04 00:39:54,271 INFO  - Service 'Oss Manager Service (OssManagerService)' was uninstalled successfully.
+2024-09-04 00:40:24,520 INFO  - Stopping OssManagerService
+2024-09-04 00:40:24,521 DEBUG - ProcessKill 14808
+2024-09-04 00:40:24,523 DEBUG - Stopping process 14808...
+2024-09-04 00:40:24,703 DEBUG - Process 14808 canceled with code 130.
+2024-09-04 00:40:24,707 INFO  - Finished OssManagerService
+2024-09-04 00:40:41,741 DEBUG - Starting WinSW in console mode
+2024-09-04 00:40:43,743 DEBUG - Starting WinSW in console mode
+2024-09-04 00:40:43,773 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-09-04 00:40:43,790 INFO  - Service 'Oss Manager Service (OssManagerService)' was installed successfully.
+2024-09-04 00:40:58,061 DEBUG - Starting WinSW in service mode
+2024-09-04 00:40:58,192 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 00:40:58,219 INFO  - Started process 5104
+2024-09-04 00:40:58,232 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 08:18:08,500 DEBUG - Starting WinSW in service mode
+2024-09-04 08:18:08,738 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 08:18:08,788 INFO  - Started process 8552
+2024-09-04 08:18:08,803 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 12:14:24,383 DEBUG - Starting WinSW in service mode
+2024-09-04 12:14:24,611 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 12:14:24,655 INFO  - Started process 8456
+2024-09-04 12:14:24,670 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 17:41:27,895 DEBUG - Starting WinSW in service mode
+2024-09-04 17:41:28,154 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 17:41:28,209 INFO  - Started process 8580
+2024-09-04 17:41:28,223 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-04 19:40:15,425 DEBUG - Starting WinSW in service mode
+2024-09-04 19:40:15,655 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-04 19:40:15,698 INFO  - Started process 8496
+2024-09-04 19:40:15,712 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-05 10:00:19,343 DEBUG - Starting WinSW in service mode
+2024-09-05 10:00:19,617 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-05 10:00:19,673 INFO  - Started process 8440
+2024-09-05 10:00:19,688 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-05 13:10:32,016 DEBUG - Starting WinSW in service mode
+2024-09-05 13:10:32,287 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-05 13:10:32,341 INFO  - Started process 8412
+2024-09-05 13:10:32,355 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-05 17:15:27,704 DEBUG - Starting WinSW in service mode
+2024-09-05 17:15:27,996 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-05 17:15:28,042 INFO  - Started process 8548
+2024-09-05 17:15:28,056 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-05 22:47:47,629 DEBUG - Starting WinSW in service mode
+2024-09-05 22:47:47,880 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-05 22:47:47,916 INFO  - Started process 8448
+2024-09-05 22:47:47,931 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-08 09:34:52,685 DEBUG - Starting WinSW in service mode
+2024-09-08 09:34:52,950 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-08 09:34:53,005 INFO  - Started process 8248
+2024-09-08 09:34:53,021 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-08 10:55:46,411 DEBUG - Starting WinSW in service mode
+2024-09-08 10:55:46,666 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-08 10:55:46,722 INFO  - Started process 5032
+2024-09-08 10:55:46,737 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-08 11:59:10,141 INFO  - Stopping OssManagerService
+2024-09-08 11:59:10,142 DEBUG - ProcessKill 5032
+2024-09-08 11:59:10,145 DEBUG - Stopping process 5032...
+2024-09-08 11:59:10,337 DEBUG - Process 5032 canceled with code 130.
+2024-09-08 11:59:10,345 INFO  - Finished OssManagerService
+2024-09-08 16:05:46,558 DEBUG - Starting WinSW in service mode
+2024-09-08 16:05:46,759 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-08 16:05:46,797 INFO  - Started process 4176
+2024-09-08 16:05:46,811 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-09 18:24:57,044 DEBUG - Starting WinSW in service mode
+2024-09-09 18:24:57,469 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-09 18:24:57,576 INFO  - Started process 9088
+2024-09-09 18:24:57,590 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-10 09:29:11,561 DEBUG - Starting WinSW in service mode
+2024-09-10 09:29:11,809 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-10 09:29:11,855 INFO  - Started process 8264
+2024-09-10 09:29:11,869 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-10 09:30:26,192 INFO  - Stopping OssManagerService
+2024-09-10 09:30:26,192 DEBUG - ProcessKill 8264
+2024-09-10 09:30:26,195 DEBUG - Stopping process 8264...
+2024-09-10 09:30:26,338 DEBUG - Process 8264 canceled with code 130.
+2024-09-10 09:30:26,345 INFO  - Finished OssManagerService
+2024-09-10 10:04:55,467 DEBUG - Starting WinSW in service mode
+2024-09-10 10:04:55,615 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-10 10:04:55,647 INFO  - Started process 15424
+2024-09-10 10:04:55,660 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-11 09:26:48,254 DEBUG - Starting WinSW in service mode
+2024-09-11 09:26:48,483 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-11 09:26:48,518 INFO  - Started process 8764
+2024-09-11 09:26:48,533 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-11 09:28:00,563 INFO  - Stopping OssManagerService
+2024-09-11 09:28:00,564 DEBUG - ProcessKill 8764
+2024-09-11 09:28:00,567 DEBUG - Stopping process 8764...
+2024-09-11 09:28:00,692 DEBUG - Process 8764 canceled with code 130.
+2024-09-11 09:28:00,697 INFO  - Finished OssManagerService
+2024-09-11 12:16:12,404 DEBUG - Starting WinSW in service mode
+2024-09-11 12:16:12,626 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-11 12:16:12,663 INFO  - Started process 8236
+2024-09-11 12:16:12,676 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-11 14:00:48,010 DEBUG - Starting WinSW in service mode
+2024-09-11 14:00:48,299 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-11 14:00:48,341 INFO  - Started process 8204
+2024-09-11 14:00:48,356 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-11 14:01:32,885 INFO  - Stopping OssManagerService
+2024-09-11 14:01:32,886 DEBUG - ProcessKill 8204
+2024-09-11 14:01:32,888 DEBUG - Stopping process 8204...
+2024-09-11 14:01:33,016 DEBUG - Process 8204 canceled with code 130.
+2024-09-11 14:01:33,022 INFO  - Finished OssManagerService
+2024-09-12 09:25:20,598 DEBUG - Starting WinSW in service mode
+2024-09-12 09:25:20,854 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-12 09:25:20,910 INFO  - Started process 8276
+2024-09-12 09:25:20,934 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-12 09:26:15,709 INFO  - Stopping OssManagerService
+2024-09-12 09:26:15,709 DEBUG - ProcessKill 8276
+2024-09-12 09:26:15,712 DEBUG - Stopping process 8276...
+2024-09-12 09:26:15,833 DEBUG - Process 8276 canceled with code 130.
+2024-09-12 09:26:15,839 INFO  - Finished OssManagerService
+2024-09-12 13:07:53,580 DEBUG - Starting WinSW in service mode
+2024-09-12 13:07:53,842 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-12 13:07:53,884 INFO  - Started process 8400
+2024-09-12 13:07:53,899 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-13 09:21:37,698 DEBUG - Starting WinSW in service mode
+2024-09-13 09:21:37,930 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-13 09:21:37,981 INFO  - Started process 8356
+2024-09-13 09:21:37,995 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-13 12:14:54,980 DEBUG - Starting WinSW in service mode
+2024-09-13 12:14:55,174 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-13 12:14:55,222 INFO  - Started process 8196
+2024-09-13 12:14:55,238 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-14 09:27:52,764 DEBUG - Starting WinSW in service mode
+2024-09-14 09:27:53,057 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-14 09:27:53,096 INFO  - Started process 8364
+2024-09-14 09:27:53,110 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-14 17:14:16,526 DEBUG - Starting WinSW in service mode
+2024-09-14 17:14:16,800 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-14 17:14:16,842 INFO  - Started process 8416
+2024-09-14 17:14:16,856 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-14 20:14:35,561 DEBUG - Starting WinSW in service mode
+2024-09-14 20:14:35,871 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-14 20:14:35,916 INFO  - Started process 8420
+2024-09-14 20:14:35,932 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-14 23:20:04,094 DEBUG - Starting WinSW in service mode
+2024-09-14 23:20:04,366 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-14 23:20:04,428 INFO  - Started process 8240
+2024-09-14 23:20:04,443 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-15 15:37:07,213 DEBUG - Starting WinSW in service mode
+2024-09-15 15:37:07,490 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-15 15:37:07,537 INFO  - Started process 8396
+2024-09-15 15:37:07,552 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-16 11:05:25,568 DEBUG - Starting WinSW in service mode
+2024-09-16 11:05:25,840 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-16 11:05:25,886 INFO  - Started process 8484
+2024-09-16 11:05:25,900 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-17 19:24:38,524 DEBUG - Starting WinSW in service mode
+2024-09-17 19:24:38,822 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-17 19:24:38,878 INFO  - Started process 8312
+2024-09-17 19:24:38,893 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-18 17:34:49,944 DEBUG - Starting WinSW in service mode
+2024-09-18 17:34:50,197 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-18 17:34:50,242 INFO  - Started process 8552
+2024-09-18 17:34:50,257 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-18 20:20:02,008 DEBUG - Starting WinSW in service mode
+2024-09-18 20:20:02,285 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-18 20:20:02,334 INFO  - Started process 8568
+2024-09-18 20:20:02,347 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-19 10:03:39,956 DEBUG - Starting WinSW in service mode
+2024-09-19 10:03:40,210 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-19 10:03:40,256 INFO  - Started process 8364
+2024-09-19 10:03:40,272 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-19 13:30:22,020 DEBUG - Starting WinSW in service mode
+2024-09-19 13:30:22,259 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-19 13:30:22,304 INFO  - Started process 8276
+2024-09-19 13:30:22,318 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-19 15:21:51,240 DEBUG - Starting WinSW in service mode
+2024-09-19 15:21:51,504 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-19 15:21:51,550 INFO  - Started process 8428
+2024-09-19 15:21:51,564 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-19 19:06:32,021 DEBUG - Starting WinSW in service mode
+2024-09-19 19:06:32,267 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-19 19:06:32,320 INFO  - Started process 7540
+2024-09-19 19:06:32,335 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-19 19:07:25,536 DEBUG - Starting WinSW in service mode
+2024-09-19 19:07:25,749 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-19 19:07:25,789 INFO  - Started process 7512
+2024-09-19 19:07:25,802 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-19 21:18:59,377 DEBUG - Starting WinSW in service mode
+2024-09-19 21:18:59,608 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-19 21:18:59,650 INFO  - Started process 8560
+2024-09-19 21:18:59,665 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 09:45:49,321 DEBUG - Starting WinSW in service mode
+2024-09-20 09:45:49,580 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 09:45:49,630 INFO  - Started process 8308
+2024-09-20 09:45:49,646 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 11:54:07,659 INFO  - Stopping OssManagerService
+2024-09-20 11:54:07,661 DEBUG - ProcessKill 8308
+2024-09-20 11:54:07,665 DEBUG - Stopping process 8308...
+2024-09-20 11:54:07,915 DEBUG - Process 8308 canceled with code 130.
+2024-09-20 11:54:07,922 INFO  - Finished OssManagerService
+2024-09-20 11:54:24,915 DEBUG - Starting WinSW in service mode
+2024-09-20 11:54:25,061 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 11:54:25,089 INFO  - Started process 5676
+2024-09-20 11:54:25,106 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 11:58:16,150 INFO  - Stopping OssManagerService
+2024-09-20 11:58:16,151 DEBUG - ProcessKill 5676
+2024-09-20 11:58:16,153 DEBUG - Stopping process 5676...
+2024-09-20 11:58:16,343 DEBUG - Process 5676 canceled with code 130.
+2024-09-20 11:58:16,346 INFO  - Finished OssManagerService
+2024-09-20 11:58:40,531 DEBUG - Starting WinSW in service mode
+2024-09-20 11:58:40,663 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 11:58:40,690 INFO  - Started process 17888
+2024-09-20 11:58:40,706 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 12:13:03,262 INFO  - Stopping OssManagerService
+2024-09-20 12:13:03,263 DEBUG - ProcessKill 17888
+2024-09-20 12:13:03,265 DEBUG - Stopping process 17888...
+2024-09-20 12:13:03,487 DEBUG - Process 17888 canceled with code 130.
+2024-09-20 12:13:03,490 INFO  - Finished OssManagerService
+2024-09-20 12:14:56,241 DEBUG - Starting WinSW in service mode
+2024-09-20 12:14:56,385 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 12:14:56,419 INFO  - Started process 6056
+2024-09-20 12:14:56,437 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 12:18:42,441 DEBUG - Starting WinSW in console mode
+2024-09-20 12:18:44,336 DEBUG - Starting WinSW in console mode
+2024-09-20 12:18:44,367 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:18:44,373 WARN  - Service 'Oss Manager Service (OssManagerService)' is started. It may be impossible to uninstall it.
+2024-09-20 12:18:44,374 INFO  - Service 'Oss Manager Service (OssManagerService)' was uninstalled successfully.
+2024-09-20 12:23:13,682 DEBUG - Starting WinSW in console mode
+2024-09-20 12:23:16,641 DEBUG - Starting WinSW in console mode
+2024-09-20 12:23:16,672 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:23:16,678 WARN  - Service 'Oss Manager Service (OssManagerService)' is started. It may be impossible to uninstall it.
+2024-09-20 12:23:16,681 ERROR - Failed to delete service. 指定的服务已标记为删除。
+2024-09-20 12:37:32,000 DEBUG - Starting WinSW in console mode
+2024-09-20 12:37:34,418 DEBUG - Starting WinSW in console mode
+2024-09-20 12:37:34,447 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:37:34,452 WARN  - Service 'Oss Manager Service (OssManagerService)' is started. It may be impossible to uninstall it.
+2024-09-20 12:37:34,454 ERROR - Failed to delete service. 指定的服务已标记为删除。
+2024-09-20 12:38:34,598 DEBUG - Starting WinSW in console mode
+2024-09-20 12:38:36,552 FATAL - An error occurred trying to start process 'D:\lazyfox-manager-1.1.4\bin\oss-manager-service.exe' with working directory 'D:\lazyfox-manager-1.1.4\bin'. 操作已被用户取消。
+2024-09-20 12:43:59,545 INFO  - Stopping OssManagerService
+2024-09-20 12:43:59,546 DEBUG - ProcessKill 6056
+2024-09-20 12:43:59,549 DEBUG - Stopping process 6056...
+2024-09-20 12:43:59,748 DEBUG - Process 6056 canceled with code 130.
+2024-09-20 12:43:59,752 INFO  - Finished OssManagerService
+2024-09-20 12:46:22,393 DEBUG - Starting WinSW in console mode
+2024-09-20 12:46:24,129 DEBUG - Starting WinSW in console mode
+2024-09-20 12:46:24,160 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:46:24,178 INFO  - Service 'Oss Manager Service (OssManagerService)' was installed successfully.
+2024-09-20 12:48:15,433 DEBUG - Starting WinSW in console mode
+2024-09-20 12:48:17,187 DEBUG - Starting WinSW in console mode
+2024-09-20 12:48:17,222 INFO  - Starting service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:48:17,628 DEBUG - Starting WinSW in service mode
+2024-09-20 12:48:17,656 INFO  - Service 'Oss Manager Service (OssManagerService)' started successfully.
+2024-09-20 12:48:17,767 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 12:48:17,795 INFO  - Started process 18644
+2024-09-20 12:48:17,814 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 12:53:16,686 DEBUG - Starting WinSW in console mode
+2024-09-20 12:53:19,705 DEBUG - Starting WinSW in console mode
+2024-09-20 12:53:19,735 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:53:19,740 WARN  - Service 'Oss Manager Service (OssManagerService)' is started. It may be impossible to uninstall it.
+2024-09-20 12:53:19,741 INFO  - Service 'Oss Manager Service (OssManagerService)' was uninstalled successfully.
+2024-09-20 12:53:30,743 DEBUG - Starting WinSW in console mode
+2024-09-20 12:53:33,588 DEBUG - Starting WinSW in console mode
+2024-09-20 12:53:33,624 INFO  - Stopping service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:53:33,632 INFO  - Service 'Oss Manager Service (OssManagerService)' stopped successfully.
+2024-09-20 12:53:33,633 INFO  - Stopping OssManagerService
+2024-09-20 12:53:33,633 DEBUG - ProcessKill 18644
+2024-09-20 12:53:33,637 DEBUG - Stopping process 18644...
+2024-09-20 12:53:33,829 DEBUG - Process 18644 canceled with code 130.
+2024-09-20 12:53:33,832 INFO  - Finished OssManagerService
+2024-09-20 12:53:39,143 DEBUG - Starting WinSW in console mode
+2024-09-20 12:53:41,035 DEBUG - Starting WinSW in console mode
+2024-09-20 12:53:41,064 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:53:41,070 WARN  - Service 'Oss Manager Service (OssManagerService)' does not exist.
+2024-09-20 12:55:16,754 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:18,760 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:18,792 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:55:18,809 INFO  - Service 'Oss Manager Service (OssManagerService)' was installed successfully.
+2024-09-20 12:55:19,273 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:21,273 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:21,309 INFO  - Starting service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:55:21,716 DEBUG - Starting WinSW in service mode
+2024-09-20 12:55:21,744 INFO  - Service 'Oss Manager Service (OssManagerService)' started successfully.
+2024-09-20 12:55:21,855 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 12:55:21,885 INFO  - Started process 18492
+2024-09-20 12:55:21,898 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 12:55:46,118 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:48,300 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:48,335 INFO  - Stopping service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:55:48,343 INFO  - Service 'Oss Manager Service (OssManagerService)' stopped successfully.
+2024-09-20 12:55:48,343 INFO  - Stopping OssManagerService
+2024-09-20 12:55:48,344 DEBUG - ProcessKill 18492
+2024-09-20 12:55:48,346 DEBUG - Stopping process 18492...
+2024-09-20 12:55:48,574 DEBUG - Process 18492 canceled with code 130.
+2024-09-20 12:55:48,578 INFO  - Finished OssManagerService
+2024-09-20 12:55:48,786 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:50,699 DEBUG - Starting WinSW in console mode
+2024-09-20 12:55:50,728 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:55:50,734 INFO  - Service 'Oss Manager Service (OssManagerService)' was uninstalled successfully.
+2024-09-20 12:56:04,745 DEBUG - Starting WinSW in console mode
+2024-09-20 12:56:06,494 DEBUG - Starting WinSW in console mode
+2024-09-20 12:56:06,526 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:56:06,544 INFO  - Service 'Oss Manager Service (OssManagerService)' was installed successfully.
+2024-09-20 12:56:06,974 DEBUG - Starting WinSW in console mode
+2024-09-20 12:56:08,740 DEBUG - Starting WinSW in console mode
+2024-09-20 12:56:08,775 INFO  - Starting service 'Oss Manager Service (OssManagerService)'...
+2024-09-20 12:56:09,207 DEBUG - Starting WinSW in service mode
+2024-09-20 12:56:09,236 INFO  - Service 'Oss Manager Service (OssManagerService)' started successfully.
+2024-09-20 12:56:09,353 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 12:56:09,382 INFO  - Started process 3412
+2024-09-20 12:56:09,397 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 12:57:38,965 INFO  - Stopping OssManagerService
+2024-09-20 12:57:38,966 DEBUG - ProcessKill 3412
+2024-09-20 12:57:38,968 DEBUG - Stopping process 3412...
+2024-09-20 12:57:39,157 DEBUG - Process 3412 canceled with code 130.
+2024-09-20 12:57:39,160 INFO  - Finished OssManagerService
+2024-09-20 12:58:02,073 DEBUG - Starting WinSW in service mode
+2024-09-20 12:58:02,205 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 12:58:02,233 INFO  - Started process 15504
+2024-09-20 12:58:02,247 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 17:14:36,234 DEBUG - Starting WinSW in service mode
+2024-09-20 17:14:36,513 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 17:14:36,561 INFO  - Started process 8428
+2024-09-20 17:14:36,575 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-20 19:50:42,445 DEBUG - Starting WinSW in service mode
+2024-09-20 19:50:42,673 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-20 19:50:42,719 INFO  - Started process 8372
+2024-09-20 19:50:42,736 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-21 08:45:28,333 DEBUG - Starting WinSW in service mode
+2024-09-21 08:45:28,572 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-21 08:45:28,612 INFO  - Started process 8568
+2024-09-21 08:45:28,626 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-21 11:43:23,944 DEBUG - Starting WinSW in service mode
+2024-09-21 11:43:24,308 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-21 11:43:24,350 INFO  - Started process 8964
+2024-09-21 11:43:24,365 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-21 13:20:45,388 DEBUG - Starting WinSW in service mode
+2024-09-21 13:20:45,732 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-21 13:20:45,771 INFO  - Started process 8348
+2024-09-21 13:20:45,784 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-21 17:11:04,642 DEBUG - Starting WinSW in service mode
+2024-09-21 17:11:04,884 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-21 17:11:04,928 INFO  - Started process 8488
+2024-09-21 17:11:04,941 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-21 20:04:54,854 DEBUG - Starting WinSW in service mode
+2024-09-21 20:04:55,068 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-21 20:04:55,111 INFO  - Started process 8608
+2024-09-21 20:04:55,125 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-22 10:19:24,301 DEBUG - Starting WinSW in service mode
+2024-09-22 10:19:24,552 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-22 10:19:24,595 INFO  - Started process 8364
+2024-09-22 10:19:24,609 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-22 12:55:40,528 DEBUG - Starting WinSW in service mode
+2024-09-22 12:55:40,806 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-22 12:55:40,849 INFO  - Started process 8540
+2024-09-22 12:55:40,864 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-22 14:05:01,748 DEBUG - Starting WinSW in service mode
+2024-09-22 14:05:01,997 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-22 14:05:02,045 INFO  - Started process 8508
+2024-09-22 14:05:02,060 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-22 17:56:03,774 DEBUG - Starting WinSW in service mode
+2024-09-22 17:56:04,018 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-22 17:56:04,061 INFO  - Started process 8536
+2024-09-22 17:56:04,075 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-22 21:25:16,721 DEBUG - Starting WinSW in service mode
+2024-09-22 21:25:17,053 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-22 21:25:17,099 INFO  - Started process 8564
+2024-09-22 21:25:17,114 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-23 09:44:17,811 DEBUG - Starting WinSW in service mode
+2024-09-23 09:44:18,134 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-23 09:44:18,176 INFO  - Started process 8864
+2024-09-23 09:44:18,191 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-23 14:20:04,932 DEBUG - Starting WinSW in service mode
+2024-09-23 14:20:05,195 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-23 14:20:05,240 INFO  - Started process 8688
+2024-09-23 14:20:05,255 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-23 20:29:43,270 DEBUG - Starting WinSW in service mode
+2024-09-23 20:29:43,511 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-23 20:29:43,556 INFO  - Started process 8536
+2024-09-23 20:29:43,571 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-24 10:26:56,649 DEBUG - Starting WinSW in service mode
+2024-09-24 10:26:56,931 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-24 10:26:56,974 INFO  - Started process 8512
+2024-09-24 10:26:56,989 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-24 13:11:56,987 INFO  - Stopping OssManagerService
+2024-09-24 13:11:56,991 DEBUG - ProcessKill 8512
+2024-09-24 13:11:57,002 DEBUG - Stopping process 8512...
+2024-09-24 13:11:57,379 DEBUG - Process 8512 canceled with code 130.
+2024-09-24 13:11:57,390 INFO  - Finished OssManagerService
+2024-09-24 13:12:15,309 DEBUG - Starting WinSW in service mode
+2024-09-24 13:12:15,453 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-24 13:12:15,483 INFO  - Started process 19276
+2024-09-24 13:12:15,498 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-25 09:15:06,987 DEBUG - Starting WinSW in service mode
+2024-09-25 09:15:07,246 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-25 09:15:07,300 INFO  - Started process 8632
+2024-09-25 09:15:07,312 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-25 15:06:41,814 DEBUG - Starting WinSW in service mode
+2024-09-25 15:06:42,108 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-25 15:06:42,152 INFO  - Started process 8668
+2024-09-25 15:06:42,165 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-26 09:49:57,722 DEBUG - Starting WinSW in service mode
+2024-09-26 09:49:57,955 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-26 09:49:57,993 INFO  - Started process 8708
+2024-09-26 09:49:58,008 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-26 19:45:54,716 DEBUG - Starting WinSW in service mode
+2024-09-26 19:45:54,945 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-26 19:45:54,987 INFO  - Started process 8628
+2024-09-26 19:45:55,002 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-27 09:15:27,205 DEBUG - Starting WinSW in service mode
+2024-09-27 09:15:27,437 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-27 09:15:27,479 INFO  - Started process 8564
+2024-09-27 09:15:27,493 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-27 13:21:07,136 DEBUG - Starting WinSW in service mode
+2024-09-27 13:21:07,353 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-27 13:21:07,394 INFO  - Started process 8588
+2024-09-27 13:21:07,409 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-27 20:16:37,026 DEBUG - Starting WinSW in service mode
+2024-09-27 20:16:37,273 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-27 20:16:37,323 INFO  - Started process 8532
+2024-09-27 20:16:37,338 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-28 10:37:54,388 DEBUG - Starting WinSW in service mode
+2024-09-28 10:37:54,588 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-28 10:37:54,628 INFO  - Started process 8548
+2024-09-28 10:37:54,643 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-28 12:39:56,839 DEBUG - Starting WinSW in service mode
+2024-09-28 12:39:57,117 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-28 12:39:57,169 INFO  - Started process 8496
+2024-09-28 12:39:57,183 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-28 20:26:30,713 DEBUG - Starting WinSW in service mode
+2024-09-28 20:26:30,996 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-28 20:26:31,039 INFO  - Started process 8500
+2024-09-28 20:26:31,054 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-29 13:20:39,036 DEBUG - Starting WinSW in service mode
+2024-09-29 13:20:39,389 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-29 13:20:39,461 INFO  - Started process 8724
+2024-09-29 13:20:39,475 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-09-30 09:50:52,798 DEBUG - Starting WinSW in service mode
+2024-09-30 09:50:53,109 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-09-30 09:50:53,162 INFO  - Started process 8812
+2024-09-30 09:50:53,177 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-01 10:16:06,160 DEBUG - Starting WinSW in service mode
+2024-10-01 10:16:06,391 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-01 10:16:06,439 INFO  - Started process 8528
+2024-10-01 10:16:06,454 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-02 14:52:18,262 DEBUG - Starting WinSW in service mode
+2024-10-02 14:52:18,500 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-02 14:52:18,543 INFO  - Started process 8644
+2024-10-02 14:52:18,557 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-03 11:59:21,828 DEBUG - Starting WinSW in service mode
+2024-10-03 11:59:22,107 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-03 11:59:22,150 INFO  - Started process 8724
+2024-10-03 11:59:22,164 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-03 20:11:29,852 DEBUG - Starting WinSW in service mode
+2024-10-03 20:11:30,136 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-03 20:11:30,182 INFO  - Started process 8364
+2024-10-03 20:11:30,197 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-04 20:07:41,918 DEBUG - Starting WinSW in service mode
+2024-10-04 20:07:42,152 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-04 20:07:42,215 INFO  - Started process 8492
+2024-10-04 20:07:42,230 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-05 14:26:55,042 DEBUG - Starting WinSW in service mode
+2024-10-05 14:26:55,420 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-05 14:26:55,519 INFO  - Started process 1232
+2024-10-05 14:26:55,599 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-06 14:34:39,349 DEBUG - Starting WinSW in service mode
+2024-10-06 14:34:39,636 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-06 14:34:39,683 INFO  - Started process 8312
+2024-10-06 14:34:39,698 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-07 09:25:00,790 DEBUG - Starting WinSW in service mode
+2024-10-07 09:25:01,078 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-07 09:25:01,126 INFO  - Started process 8484
+2024-10-07 09:25:01,140 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-07 17:48:26,265 DEBUG - Starting WinSW in service mode
+2024-10-07 17:48:26,571 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-07 17:48:26,626 INFO  - Started process 8352
+2024-10-07 17:48:26,642 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-08 16:53:07,350 DEBUG - Starting WinSW in service mode
+2024-10-08 16:53:07,666 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-08 16:53:07,740 INFO  - Started process 8596
+2024-10-08 16:53:07,754 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-08 17:45:07,427 DEBUG - Starting WinSW in service mode
+2024-10-08 17:45:07,649 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-08 17:45:07,700 INFO  - Started process 8488
+2024-10-08 17:45:07,714 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-09 17:02:49,576 DEBUG - Starting WinSW in service mode
+2024-10-09 17:02:50,017 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-09 17:02:50,079 INFO  - Started process 8948
+2024-10-09 17:02:50,095 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-09 19:39:50,846 DEBUG - Starting WinSW in service mode
+2024-10-09 19:39:51,193 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-09 19:39:51,247 INFO  - Started process 8484
+2024-10-09 19:39:51,261 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-10 15:05:04,055 DEBUG - Starting WinSW in service mode
+2024-10-10 15:05:04,274 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-10 15:05:04,320 INFO  - Started process 8404
+2024-10-10 15:05:04,335 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-10 23:37:33,623 DEBUG - Starting WinSW in service mode
+2024-10-10 23:37:33,888 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-10 23:37:33,931 INFO  - Started process 8504
+2024-10-10 23:37:33,946 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-11 11:21:19,549 DEBUG - Starting WinSW in service mode
+2024-10-11 11:21:19,964 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-11 11:21:20,049 INFO  - Started process 4916
+2024-10-11 11:21:20,085 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-11 15:06:14,482 DEBUG - Starting WinSW in service mode
+2024-10-11 15:06:14,714 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-11 15:06:14,757 INFO  - Started process 8368
+2024-10-11 15:06:14,768 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-11 18:53:51,543 DEBUG - Starting WinSW in service mode
+2024-10-11 18:53:51,778 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-11 18:53:51,827 INFO  - Started process 8488
+2024-10-11 18:53:51,840 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-11 20:02:26,977 DEBUG - Starting WinSW in service mode
+2024-10-11 20:02:27,326 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-11 20:02:27,397 INFO  - Started process 10312
+2024-10-11 20:02:27,440 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-12 15:54:16,366 DEBUG - Starting WinSW in service mode
+2024-10-12 15:54:17,231 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-12 15:54:17,497 INFO  - Started process 11892
+2024-10-12 15:54:17,559 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-12 19:32:49,203 DEBUG - Starting WinSW in service mode
+2024-10-12 19:32:49,443 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-12 19:32:49,490 INFO  - Started process 8660
+2024-10-12 19:32:49,505 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-13 14:24:37,936 DEBUG - Starting WinSW in service mode
+2024-10-13 14:24:38,195 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-13 14:24:38,240 INFO  - Started process 8720
+2024-10-13 14:24:38,255 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-13 19:24:02,991 DEBUG - Starting WinSW in service mode
+2024-10-13 19:24:03,267 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-13 19:24:03,312 INFO  - Started process 8612
+2024-10-13 19:24:03,328 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-14 15:13:06,274 DEBUG - Starting WinSW in service mode
+2024-10-14 15:13:06,545 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-14 15:13:06,616 INFO  - Started process 8304
+2024-10-14 15:13:06,629 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-15 14:33:00,788 DEBUG - Starting WinSW in service mode
+2024-10-15 14:33:01,058 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-15 14:33:01,108 INFO  - Started process 8996
+2024-10-15 14:33:01,122 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-16 10:21:45,931 DEBUG - Starting WinSW in service mode
+2024-10-16 10:21:46,188 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-16 10:21:46,232 INFO  - Started process 8748
+2024-10-16 10:21:46,246 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-16 19:55:43,053 DEBUG - Starting WinSW in service mode
+2024-10-16 19:55:43,340 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-16 19:55:43,393 INFO  - Started process 8416
+2024-10-16 19:55:43,407 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-17 15:13:11,925 DEBUG - Starting WinSW in service mode
+2024-10-17 15:13:12,208 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-17 15:13:12,256 INFO  - Started process 8536
+2024-10-17 15:13:12,275 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-17 22:39:39,360 DEBUG - Starting WinSW in service mode
+2024-10-17 22:39:39,645 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-17 22:39:39,700 INFO  - Started process 8468
+2024-10-17 22:39:39,714 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-18 17:13:30,679 DEBUG - Starting WinSW in service mode
+2024-10-18 17:13:30,922 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-18 17:13:30,969 INFO  - Started process 8488
+2024-10-18 17:13:30,983 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-18 18:14:33,616 DEBUG - Starting WinSW in service mode
+2024-10-18 18:14:33,877 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-18 18:14:33,921 INFO  - Started process 8340
+2024-10-18 18:14:33,936 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-18 18:41:01,546 DEBUG - Starting WinSW in service mode
+2024-10-18 18:41:01,767 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-18 18:41:01,808 INFO  - Started process 8504
+2024-10-18 18:41:01,823 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-18 23:21:24,779 DEBUG - Starting WinSW in service mode
+2024-10-18 23:21:25,086 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-18 23:21:25,142 INFO  - Started process 8636
+2024-10-18 23:21:25,157 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-19 12:43:32,961 DEBUG - Starting WinSW in service mode
+2024-10-19 12:43:33,312 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-19 12:43:33,363 INFO  - Started process 8468
+2024-10-19 12:43:33,378 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-19 20:04:13,817 DEBUG - Starting WinSW in service mode
+2024-10-19 20:04:14,151 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-19 20:04:14,194 INFO  - Started process 8316
+2024-10-19 20:04:14,209 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-20 14:45:46,781 DEBUG - Starting WinSW in service mode
+2024-10-20 14:45:47,076 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-20 14:45:47,132 INFO  - Started process 8460
+2024-10-20 14:45:47,148 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-20 21:26:40,996 DEBUG - Starting WinSW in service mode
+2024-10-20 21:26:41,227 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-20 21:26:41,288 INFO  - Started process 8404
+2024-10-20 21:26:41,305 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-21 00:17:29,325 DEBUG - Starting WinSW in service mode
+2024-10-21 00:17:29,607 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-21 00:17:29,661 INFO  - Started process 7552
+2024-10-21 00:17:29,676 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-21 14:40:17,147 DEBUG - Starting WinSW in service mode
+2024-10-21 14:40:17,509 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-21 14:40:17,557 INFO  - Started process 8608
+2024-10-21 14:40:17,574 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-21 20:55:31,908 DEBUG - Starting WinSW in service mode
+2024-10-21 20:55:32,161 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-21 20:55:32,214 INFO  - Started process 1792
+2024-10-21 20:55:32,230 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-22 16:51:57,489 DEBUG - Starting WinSW in service mode
+2024-10-22 16:51:57,751 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-22 16:51:57,795 INFO  - Started process 8408
+2024-10-22 16:51:57,810 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-23 15:20:54,675 DEBUG - Starting WinSW in service mode
+2024-10-23 15:20:54,958 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-23 15:20:55,001 INFO  - Started process 8572
+2024-10-23 15:20:55,016 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-23 19:31:17,974 DEBUG - Starting WinSW in service mode
+2024-10-23 19:31:18,402 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-23 19:31:18,455 INFO  - Started process 8344
+2024-10-23 19:31:18,523 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-24 13:13:07,860 DEBUG - Starting WinSW in service mode
+2024-10-24 13:13:08,135 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-24 13:13:08,182 INFO  - Started process 8460
+2024-10-24 13:13:08,202 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-24 14:18:11,945 DEBUG - Starting WinSW in service mode
+2024-10-24 14:18:12,208 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-24 14:18:12,252 INFO  - Started process 8316
+2024-10-24 14:18:12,266 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-25 15:01:48,938 DEBUG - Starting WinSW in service mode
+2024-10-25 15:01:49,199 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-25 15:01:49,245 INFO  - Started process 8572
+2024-10-25 15:01:49,259 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-25 20:54:03,438 DEBUG - Starting WinSW in service mode
+2024-10-25 20:54:03,690 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-25 20:54:03,732 INFO  - Started process 8104
+2024-10-25 20:54:03,746 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-26 19:35:37,841 DEBUG - Starting WinSW in service mode
+2024-10-26 19:35:38,036 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-26 19:35:38,088 INFO  - Started process 8000
+2024-10-26 19:35:38,102 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-27 16:07:50,455 DEBUG - Starting WinSW in service mode
+2024-10-27 16:07:50,752 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-27 16:07:50,796 INFO  - Started process 8044
+2024-10-27 16:07:50,810 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-28 16:32:43,574 DEBUG - Starting WinSW in service mode
+2024-10-28 16:32:43,856 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-28 16:32:43,909 INFO  - Started process 7972
+2024-10-28 16:32:43,923 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-28 17:32:47,017 DEBUG - Starting WinSW in service mode
+2024-10-28 17:32:47,406 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-28 17:32:47,466 INFO  - Started process 12080
+2024-10-28 17:32:47,485 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-30 11:42:03,423 DEBUG - Starting WinSW in service mode
+2024-10-30 11:42:03,687 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-30 11:42:03,745 INFO  - Started process 8028
+2024-10-30 11:42:03,759 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-30 18:01:08,413 DEBUG - Starting WinSW in service mode
+2024-10-30 18:01:08,696 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-30 18:01:08,736 INFO  - Started process 8020
+2024-10-30 18:01:08,751 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-10-31 22:48:29,717 DEBUG - Starting WinSW in service mode
+2024-10-31 22:48:30,118 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-10-31 22:48:30,213 INFO  - Started process 1256
+2024-10-31 22:48:30,229 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-01 11:56:02,848 DEBUG - Starting WinSW in service mode
+2024-11-01 11:56:03,103 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-01 11:56:03,148 INFO  - Started process 8016
+2024-11-01 11:56:03,162 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-01 16:20:32,038 DEBUG - Starting WinSW in service mode
+2024-11-01 16:20:32,303 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-01 16:20:33,157 INFO  - Started process 8168
+2024-11-01 16:20:33,173 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-02 18:44:14,515 DEBUG - Starting WinSW in service mode
+2024-11-02 18:44:14,756 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-02 18:44:14,814 INFO  - Started process 7908
+2024-11-02 18:44:14,828 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-03 12:15:32,953 DEBUG - Starting WinSW in service mode
+2024-11-03 12:15:33,399 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-03 12:15:33,502 INFO  - Started process 12160
+2024-11-03 12:15:33,530 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-04 13:19:21,567 DEBUG - Starting WinSW in service mode
+2024-11-04 13:19:21,813 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-04 13:19:21,858 INFO  - Started process 8080
+2024-11-04 13:19:21,872 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-04 18:21:31,230 DEBUG - Starting WinSW in service mode
+2024-11-04 18:21:31,461 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-04 18:21:31,502 INFO  - Started process 7828
+2024-11-04 18:21:31,515 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-04 19:00:04,011 DEBUG - Starting WinSW in service mode
+2024-11-04 19:00:04,324 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-04 19:00:04,426 INFO  - Started process 6168
+2024-11-04 19:00:04,441 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-04 20:04:45,599 DEBUG - Starting WinSW in service mode
+2024-11-04 20:04:45,853 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-04 20:04:45,889 INFO  - Started process 8012
+2024-11-04 20:04:45,903 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-05 18:23:40,640 DEBUG - Starting WinSW in service mode
+2024-11-05 18:23:40,921 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-05 18:23:40,969 INFO  - Started process 8000
+2024-11-05 18:23:40,983 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-05 20:27:11,663 DEBUG - Starting WinSW in service mode
+2024-11-05 20:27:11,916 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-05 20:27:11,961 INFO  - Started process 7860
+2024-11-05 20:27:11,976 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-06 19:16:38,810 DEBUG - Starting WinSW in service mode
+2024-11-06 19:16:39,065 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-06 19:16:39,110 INFO  - Started process 8072
+2024-11-06 19:16:39,123 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-07 11:01:31,283 DEBUG - Starting WinSW in service mode
+2024-11-07 11:01:31,482 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-07 11:01:31,522 INFO  - Started process 8036
+2024-11-07 11:01:31,537 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-07 17:50:49,416 DEBUG - Starting WinSW in service mode
+2024-11-07 17:50:49,639 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-07 17:50:49,681 INFO  - Started process 8008
+2024-11-07 17:50:49,695 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-07 20:53:38,668 DEBUG - Starting WinSW in service mode
+2024-11-07 20:53:38,881 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-07 20:53:38,937 INFO  - Started process 7924
+2024-11-07 20:53:38,952 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-08 08:59:06,387 DEBUG - Starting WinSW in service mode
+2024-11-08 08:59:06,602 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-08 08:59:06,649 INFO  - Started process 8088
+2024-11-08 08:59:06,663 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-08 13:17:47,997 DEBUG - Starting WinSW in service mode
+2024-11-08 13:17:48,269 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-08 13:17:48,316 INFO  - Started process 8008
+2024-11-08 13:17:48,331 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-08 18:07:41,485 DEBUG - Starting WinSW in service mode
+2024-11-08 18:07:41,755 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-08 18:07:41,804 INFO  - Started process 7972
+2024-11-08 18:07:41,824 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-09 10:16:08,005 DEBUG - Starting WinSW in service mode
+2024-11-09 10:16:08,322 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-09 10:16:08,381 INFO  - Started process 7928
+2024-11-09 10:16:08,395 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-09 17:49:59,196 DEBUG - Starting WinSW in service mode
+2024-11-09 17:49:59,795 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.2.6.jar"
+2024-11-09 17:49:59,850 INFO  - Started process 11748
+2024-11-09 17:49:59,876 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-09 21:17:51,254 DEBUG - Starting WinSW in console mode
+2024-11-09 21:17:53,553 DEBUG - Starting WinSW in console mode
+2024-11-09 21:17:53,590 INFO  - Stopping service 'Oss Manager Service (OssManagerService)'...
+2024-11-09 21:17:53,601 INFO  - Service 'Oss Manager Service (OssManagerService)' stopped successfully.
+2024-11-09 21:17:53,607 INFO  - Stopping OssManagerService
+2024-11-09 21:17:53,609 DEBUG - ProcessKill 11748
+2024-11-09 21:17:53,615 DEBUG - Stopping process 11748...
+2024-11-09 21:17:53,692 DEBUG - Process 11748 canceled with code 130.
+2024-11-09 21:17:53,696 INFO  - Finished OssManagerService
+2024-11-09 21:17:54,104 DEBUG - Starting WinSW in console mode
+2024-11-09 21:17:56,156 DEBUG - Starting WinSW in console mode
+2024-11-09 21:17:56,196 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2024-11-09 21:17:56,204 INFO  - Service 'Oss Manager Service (OssManagerService)' was uninstalled successfully.
+2024-11-09 21:20:22,306 DEBUG - Starting WinSW in console mode
+2024-11-09 21:20:24,543 DEBUG - Starting WinSW in console mode
+2024-11-09 21:20:24,575 INFO  - Installing service 'Oss Manager Service (OssManagerService)'...
+2024-11-09 21:20:24,595 INFO  - Service 'Oss Manager Service (OssManagerService)' was installed successfully.
+2024-11-09 21:20:25,061 DEBUG - Starting WinSW in console mode
+2024-11-09 21:20:27,033 DEBUG - Starting WinSW in console mode
+2024-11-09 21:20:27,077 INFO  - Starting service 'Oss Manager Service (OssManagerService)'...
+2024-11-09 21:20:27,524 DEBUG - Starting WinSW in service mode
+2024-11-09 21:20:27,552 INFO  - Service 'Oss Manager Service (OssManagerService)' started successfully.
+2024-11-09 21:20:27,662 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-09 21:20:27,689 INFO  - Started process 14900
+2024-11-09 21:20:27,705 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-10 11:20:19,488 DEBUG - Starting WinSW in service mode
+2024-11-10 11:20:19,843 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-10 11:20:19,885 INFO  - Started process 7956
+2024-11-10 11:20:19,898 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-10 13:27:37,894 DEBUG - Starting WinSW in service mode
+2024-11-10 13:27:38,127 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-10 13:27:38,171 INFO  - Started process 7944
+2024-11-10 13:27:38,186 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-10 18:46:35,616 DEBUG - Starting WinSW in service mode
+2024-11-10 18:46:35,911 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-10 18:46:35,954 INFO  - Started process 7992
+2024-11-10 18:46:35,968 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-11 10:21:24,664 DEBUG - Starting WinSW in service mode
+2024-11-11 10:21:24,887 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-11 10:21:24,933 INFO  - Started process 8084
+2024-11-11 10:21:24,954 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-11 13:48:06,426 DEBUG - Starting WinSW in service mode
+2024-11-11 13:48:06,638 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-11 13:48:06,698 INFO  - Started process 7924
+2024-11-11 13:48:06,711 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-11 15:05:56,596 DEBUG - Starting WinSW in service mode
+2024-11-11 15:05:56,873 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-11 15:05:56,917 INFO  - Started process 7860
+2024-11-11 15:05:56,931 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-12 10:29:12,934 DEBUG - Starting WinSW in service mode
+2024-11-12 10:29:13,174 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-12 10:29:13,212 INFO  - Started process 8000
+2024-11-12 10:29:13,227 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-12 18:25:18,976 DEBUG - Starting WinSW in service mode
+2024-11-12 18:25:19,374 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-12 18:25:19,422 INFO  - Started process 7848
+2024-11-12 18:25:19,437 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-12 20:34:01,480 DEBUG - Starting WinSW in service mode
+2024-11-12 20:34:01,692 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-12 20:34:01,732 INFO  - Started process 7952
+2024-11-12 20:34:01,746 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-13 12:33:41,017 DEBUG - Starting WinSW in service mode
+2024-11-13 12:33:41,310 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-13 12:33:41,359 INFO  - Started process 8316
+2024-11-13 12:33:41,373 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-13 16:32:58,630 DEBUG - Starting WinSW in service mode
+2024-11-13 16:32:59,002 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-13 16:32:59,057 INFO  - Started process 8504
+2024-11-13 16:32:59,071 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-13 19:59:31,548 DEBUG - Starting WinSW in service mode
+2024-11-13 19:59:31,833 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-13 19:59:31,922 INFO  - Started process 2536
+2024-11-13 19:59:31,935 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-14 11:45:56,306 DEBUG - Starting WinSW in service mode
+2024-11-14 11:45:56,551 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-14 11:45:56,595 INFO  - Started process 8312
+2024-11-14 11:45:56,609 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-14 16:49:31,128 DEBUG - Starting WinSW in service mode
+2024-11-14 16:49:31,442 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-14 16:49:31,487 INFO  - Started process 8320
+2024-11-14 16:49:31,501 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-14 20:38:17,902 DEBUG - Starting WinSW in service mode
+2024-11-14 20:38:18,632 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-14 20:38:18,740 INFO  - Started process 14252
+2024-11-14 20:38:18,782 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-15 16:11:01,413 DEBUG - Starting WinSW in service mode
+2024-11-15 16:11:01,893 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-15 16:11:02,041 INFO  - Started process 13268
+2024-11-15 16:11:02,062 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-15 18:58:30,606 DEBUG - Starting WinSW in service mode
+2024-11-15 18:58:30,811 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-15 18:58:30,849 INFO  - Started process 8404
+2024-11-15 18:58:30,864 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-15 19:50:23,722 DEBUG - Starting WinSW in service mode
+2024-11-15 19:50:24,035 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-15 19:50:24,088 INFO  - Started process 8340
+2024-11-15 19:50:24,101 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-15 21:57:11,057 DEBUG - Starting WinSW in service mode
+2024-11-15 21:57:11,300 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-15 21:57:11,351 INFO  - Started process 8304
+2024-11-15 21:57:11,365 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-16 16:01:27,768 DEBUG - Starting WinSW in service mode
+2024-11-16 16:01:28,011 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-16 16:01:28,051 INFO  - Started process 8304
+2024-11-16 16:01:28,066 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-16 19:23:09,928 DEBUG - Starting WinSW in service mode
+2024-11-16 19:23:10,176 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-16 19:23:10,220 INFO  - Started process 7692
+2024-11-16 19:23:10,234 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-16 20:16:47,904 DEBUG - Starting WinSW in service mode
+2024-11-16 20:16:48,170 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-16 20:16:48,210 INFO  - Started process 7932
+2024-11-16 20:16:48,225 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-19 17:08:57,009 DEBUG - Starting WinSW in service mode
+2024-11-19 17:08:57,255 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-19 17:08:57,308 INFO  - Started process 7716
+2024-11-19 17:08:57,322 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-20 12:19:22,831 DEBUG - Starting WinSW in service mode
+2024-11-20 12:19:23,079 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-20 12:19:23,119 INFO  - Started process 8568
+2024-11-20 12:19:23,133 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-22 15:07:17,440 DEBUG - Starting WinSW in service mode
+2024-11-22 15:07:17,751 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-22 15:07:17,810 INFO  - Started process 8840
+2024-11-22 15:07:17,828 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-22 17:33:45,801 DEBUG - Starting WinSW in service mode
+2024-11-22 17:33:46,145 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-22 17:33:46,208 INFO  - Started process 9080
+2024-11-22 17:33:46,223 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-22 20:11:39,525 DEBUG - Starting WinSW in service mode
+2024-11-22 20:11:39,854 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-22 20:11:39,903 INFO  - Started process 8660
+2024-11-22 20:11:39,920 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-23 20:57:13,252 DEBUG - Starting WinSW in service mode
+2024-11-23 20:57:13,500 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-23 20:57:13,547 INFO  - Started process 8548
+2024-11-23 20:57:13,560 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-25 13:27:45,348 DEBUG - Starting WinSW in service mode
+2024-11-25 13:27:45,561 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-25 13:27:45,601 INFO  - Started process 8552
+2024-11-25 13:27:45,615 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-25 17:33:22,373 DEBUG - Starting WinSW in service mode
+2024-11-25 17:33:22,593 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-25 17:33:22,637 INFO  - Started process 8352
+2024-11-25 17:33:22,652 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-26 15:23:39,908 DEBUG - Starting WinSW in service mode
+2024-11-26 15:23:40,153 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-26 15:23:40,196 INFO  - Started process 8460
+2024-11-26 15:23:40,210 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-27 17:00:03,700 DEBUG - Starting WinSW in service mode
+2024-11-27 17:00:03,886 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-27 17:00:03,920 INFO  - Started process 8568
+2024-11-27 17:00:03,933 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-28 16:03:29,967 DEBUG - Starting WinSW in service mode
+2024-11-28 16:03:30,193 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-28 16:03:30,234 INFO  - Started process 8492
+2024-11-28 16:03:30,248 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-28 23:27:31,212 DEBUG - Starting WinSW in service mode
+2024-11-28 23:27:31,701 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-28 23:27:31,792 INFO  - Started process 7972
+2024-11-28 23:27:31,806 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-28 23:28:51,907 DEBUG - Starting WinSW in service mode
+2024-11-28 23:28:52,188 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-28 23:28:52,232 INFO  - Started process 8096
+2024-11-28 23:28:52,246 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-28 23:31:53,589 DEBUG - Starting WinSW in service mode
+2024-11-28 23:31:53,843 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-28 23:31:53,899 INFO  - Started process 7724
+2024-11-28 23:31:53,912 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-29 17:36:48,342 DEBUG - Starting WinSW in service mode
+2024-11-29 17:36:48,671 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-29 17:36:48,735 INFO  - Started process 8776
+2024-11-29 17:36:48,751 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-11-30 20:26:02,908 DEBUG - Starting WinSW in service mode
+2024-11-30 20:26:03,630 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-11-30 20:26:03,785 INFO  - Started process 13424
+2024-11-30 20:26:03,801 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-12-02 13:01:56,819 DEBUG - Starting WinSW in service mode
+2024-12-02 13:01:57,112 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-12-02 13:01:57,155 INFO  - Started process 8620
+2024-12-02 13:01:57,171 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-12-02 19:18:30,822 DEBUG - Starting WinSW in service mode
+2024-12-02 19:18:31,247 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-12-02 19:18:31,305 INFO  - Started process 8508
+2024-12-02 19:18:31,320 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-12-02 21:14:20,792 DEBUG - Starting WinSW in service mode
+2024-12-02 21:14:21,029 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-12-02 21:14:21,070 INFO  - Started process 8380
+2024-12-02 21:14:21,082 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-12-03 12:51:40,681 DEBUG - Starting WinSW in service mode
+2024-12-03 12:51:40,903 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-12-03 12:51:40,940 INFO  - Started process 8264
+2024-12-03 12:51:40,952 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-12-20 19:31:51,374 DEBUG - Starting WinSW in service mode
+2024-12-20 19:31:52,213 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-12-20 19:31:52,323 INFO  - Started process 9188
+2024-12-20 19:31:52,343 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-12-21 08:44:28,980 DEBUG - Starting WinSW in service mode
+2024-12-21 08:44:29,289 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-12-21 08:44:29,347 INFO  - Started process 8492
+2024-12-21 08:44:29,362 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2024-12-21 13:33:15,130 DEBUG - Starting WinSW in service mode
+2024-12-21 13:33:15,455 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2024-12-21 13:33:15,498 INFO  - Started process 8624
+2024-12-21 13:33:15,512 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-24 18:56:59,777 DEBUG - Starting WinSW in service mode
+2025-01-24 18:56:59,941 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-24 18:56:59,982 INFO  - Started process 8424
+2025-01-24 18:56:59,995 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-24 23:46:07,707 DEBUG - Starting WinSW in service mode
+2025-01-24 23:46:07,950 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-24 23:46:08,002 INFO  - Started process 8684
+2025-01-24 23:46:08,017 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-25 14:00:17,609 DEBUG - Starting WinSW in service mode
+2025-01-25 14:00:17,844 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-25 14:00:17,888 INFO  - Started process 8424
+2025-01-25 14:00:17,901 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-26 17:49:01,891 DEBUG - Starting WinSW in service mode
+2025-01-26 17:49:02,093 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-26 17:49:02,134 INFO  - Started process 7628
+2025-01-26 17:49:02,148 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-26 19:15:07,378 DEBUG - Starting WinSW in service mode
+2025-01-26 19:15:08,022 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-26 19:15:08,124 INFO  - Started process 5472
+2025-01-26 19:15:08,195 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-27 21:08:47,708 DEBUG - Starting WinSW in service mode
+2025-01-27 21:08:47,942 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-27 21:08:47,990 INFO  - Started process 6880
+2025-01-27 21:08:48,005 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-28 11:35:32,856 DEBUG - Starting WinSW in service mode
+2025-01-28 11:35:33,094 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-28 11:35:33,137 INFO  - Started process 8432
+2025-01-28 11:35:33,151 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-28 13:52:50,623 DEBUG - Starting WinSW in service mode
+2025-01-28 13:52:51,105 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-28 13:52:52,076 INFO  - Started process 11988
+2025-01-28 13:52:52,105 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-28 19:48:43,162 DEBUG - Starting WinSW in service mode
+2025-01-28 19:48:43,483 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-28 19:48:43,538 INFO  - Started process 8600
+2025-01-28 19:48:43,553 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-28 22:34:41,752 DEBUG - Starting WinSW in service mode
+2025-01-28 22:34:41,999 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-28 22:34:42,035 INFO  - Started process 8684
+2025-01-28 22:34:42,049 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-29 18:12:34,434 DEBUG - Starting WinSW in service mode
+2025-01-29 18:12:34,686 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-29 18:12:34,735 INFO  - Started process 8688
+2025-01-29 18:12:34,748 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-30 15:18:49,581 DEBUG - Starting WinSW in service mode
+2025-01-30 15:18:49,794 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-30 15:18:50,131 INFO  - Started process 9448
+2025-01-30 15:18:50,143 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-30 15:20:27,608 DEBUG - Starting WinSW in service mode
+2025-01-30 15:20:27,892 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-30 15:20:27,943 INFO  - Started process 8128
+2025-01-30 15:20:27,957 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-30 15:21:32,279 DEBUG - Starting WinSW in service mode
+2025-01-30 15:21:32,736 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-30 15:21:32,795 INFO  - Started process 8204
+2025-01-30 15:21:32,809 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-30 15:22:47,980 DEBUG - Starting WinSW in service mode
+2025-01-30 15:22:48,179 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-30 15:22:48,219 INFO  - Started process 7792
+2025-01-30 15:22:48,231 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-30 15:23:24,791 DEBUG - Starting WinSW in service mode
+2025-01-30 15:23:25,063 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-30 15:23:25,116 INFO  - Started process 8136
+2025-01-30 15:23:25,130 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-01-30 16:25:31,072 DEBUG - Starting WinSW in service mode
+2025-01-30 16:25:31,286 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-01-30 16:25:31,333 INFO  - Started process 8596
+2025-01-30 16:25:31,347 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-02 09:24:00,784 DEBUG - Starting WinSW in service mode
+2025-02-02 09:24:00,950 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-02 09:24:00,989 INFO  - Started process 8048
+2025-02-02 09:24:01,001 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-02 09:53:49,905 DEBUG - Starting WinSW in service mode
+2025-02-02 09:53:50,194 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-02 09:53:50,238 INFO  - Started process 8764
+2025-02-02 09:53:50,251 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-02 10:01:18,155 DEBUG - Starting WinSW in service mode
+2025-02-02 10:01:18,401 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-02 10:01:18,457 INFO  - Started process 8944
+2025-02-02 10:01:18,470 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-02 15:06:55,227 DEBUG - Starting WinSW in service mode
+2025-02-02 15:06:55,471 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-02 15:06:55,520 INFO  - Started process 8420
+2025-02-02 15:06:55,536 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-04 20:15:45,448 DEBUG - Starting WinSW in service mode
+2025-02-04 20:15:45,758 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-04 20:15:45,800 INFO  - Started process 8600
+2025-02-04 20:15:45,813 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-04 22:13:53,691 DEBUG - Starting WinSW in service mode
+2025-02-04 22:13:53,959 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-04 22:13:54,000 INFO  - Started process 8896
+2025-02-04 22:13:54,013 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-05 18:15:22,232 DEBUG - Starting WinSW in service mode
+2025-02-05 18:15:22,488 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-05 18:15:22,543 INFO  - Started process 9056
+2025-02-05 18:15:22,558 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-06 10:50:59,708 DEBUG - Starting WinSW in service mode
+2025-02-06 10:50:59,894 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-06 10:50:59,929 INFO  - Started process 8668
+2025-02-06 10:50:59,943 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-07 12:34:39,616 DEBUG - Starting WinSW in service mode
+2025-02-07 12:34:39,850 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-07 12:34:39,896 INFO  - Started process 8780
+2025-02-07 12:34:39,910 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-21 19:37:10,131 DEBUG - Starting WinSW in service mode
+2025-02-21 19:37:10,373 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-21 19:37:10,418 INFO  - Started process 8628
+2025-02-21 19:37:10,432 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-23 15:44:17,249 DEBUG - Starting WinSW in service mode
+2025-02-23 15:44:17,587 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-23 15:44:17,649 INFO  - Started process 8644
+2025-02-23 15:44:17,664 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-24 02:05:31,467 DEBUG - Starting WinSW in service mode
+2025-02-24 02:05:31,708 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-24 02:05:31,753 INFO  - Started process 7884
+2025-02-24 02:05:31,768 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-24 16:13:04,213 DEBUG - Starting WinSW in service mode
+2025-02-24 16:13:04,485 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-24 16:13:04,527 INFO  - Started process 8804
+2025-02-24 16:13:04,540 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-26 14:10:48,829 DEBUG - Starting WinSW in service mode
+2025-02-26 14:10:49,105 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-26 14:10:49,141 INFO  - Started process 8816
+2025-02-26 14:10:49,154 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-26 20:45:26,172 DEBUG - Starting WinSW in service mode
+2025-02-26 20:45:26,408 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-26 20:45:26,452 INFO  - Started process 8764
+2025-02-26 20:45:26,466 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-28 17:13:49,505 DEBUG - Starting WinSW in service mode
+2025-02-28 17:13:49,994 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-28 17:13:50,113 INFO  - Started process 14004
+2025-02-28 17:13:50,134 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-02-28 22:23:39,692 DEBUG - Starting WinSW in service mode
+2025-02-28 22:23:40,113 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-02-28 22:23:40,185 INFO  - Started process 12360
+2025-02-28 22:23:40,230 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-01 18:14:04,929 DEBUG - Starting WinSW in service mode
+2025-03-01 18:14:05,202 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-01 18:14:05,247 INFO  - Started process 8580
+2025-03-01 18:14:05,260 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-02 17:03:40,751 DEBUG - Starting WinSW in service mode
+2025-03-02 17:03:41,070 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-02 17:03:41,121 INFO  - Started process 8540
+2025-03-02 17:03:41,136 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-02 22:03:13,868 DEBUG - Starting WinSW in service mode
+2025-03-02 22:03:14,294 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-02 22:03:14,511 INFO  - Started process 12016
+2025-03-02 22:03:14,581 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-03 16:18:54,160 DEBUG - Starting WinSW in service mode
+2025-03-03 16:18:54,389 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-03 16:18:54,429 INFO  - Started process 8888
+2025-03-03 16:18:54,443 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-03 20:11:45,050 DEBUG - Starting WinSW in service mode
+2025-03-03 20:11:45,513 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-03 20:11:45,575 INFO  - Started process 10488
+2025-03-03 20:11:45,664 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-03 20:32:00,063 DEBUG - Starting WinSW in service mode
+2025-03-03 20:32:00,447 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-03 20:32:00,528 INFO  - Started process 7832
+2025-03-03 20:32:00,549 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-03 20:43:53,889 DEBUG - Starting WinSW in service mode
+2025-03-03 20:43:54,081 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-03 20:43:54,116 INFO  - Started process 8508
+2025-03-03 20:43:54,127 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-03 22:31:53,067 DEBUG - Starting WinSW in service mode
+2025-03-03 22:31:53,259 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-03 22:31:53,303 INFO  - Started process 8316
+2025-03-03 22:31:53,315 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-05 13:54:36,394 DEBUG - Starting WinSW in service mode
+2025-03-05 13:54:36,560 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-05 13:54:36,596 INFO  - Started process 8280
+2025-03-05 13:54:36,609 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-06 17:50:26,485 DEBUG - Starting WinSW in service mode
+2025-03-06 17:50:26,856 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-06 17:50:26,931 INFO  - Started process 9928
+2025-03-06 17:50:26,944 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-07 15:43:27,629 DEBUG - Starting WinSW in service mode
+2025-03-07 15:43:27,798 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-07 15:43:27,830 INFO  - Started process 8276
+2025-03-07 15:43:27,841 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-08 22:19:47,643 DEBUG - Starting WinSW in service mode
+2025-03-08 22:19:47,860 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-08 22:19:47,921 INFO  - Started process 8528
+2025-03-08 22:19:47,934 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-08 23:40:06,538 DEBUG - Starting WinSW in service mode
+2025-03-08 23:40:06,766 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-08 23:40:06,823 INFO  - Started process 8624
+2025-03-08 23:40:06,865 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-09 16:52:55,806 DEBUG - Starting WinSW in service mode
+2025-03-09 16:52:56,028 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-09 16:52:56,069 INFO  - Started process 8496
+2025-03-09 16:52:56,082 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-09 19:41:32,206 DEBUG - Starting WinSW in service mode
+2025-03-09 19:41:32,374 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-09 19:41:32,415 INFO  - Started process 8260
+2025-03-09 19:41:32,429 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-11 19:57:29,051 DEBUG - Starting WinSW in service mode
+2025-03-11 19:57:29,258 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-11 19:57:29,299 INFO  - Started process 8508
+2025-03-11 19:57:29,311 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-13 19:32:50,069 DEBUG - Starting WinSW in service mode
+2025-03-13 19:32:50,231 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-13 19:32:50,275 INFO  - Started process 8364
+2025-03-13 19:32:50,285 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-14 19:35:22,742 DEBUG - Starting WinSW in service mode
+2025-03-14 19:35:23,169 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-14 19:35:23,238 INFO  - Started process 11188
+2025-03-14 19:35:23,255 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-15 22:18:34,517 DEBUG - Starting WinSW in service mode
+2025-03-15 22:18:34,701 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-15 22:18:34,742 INFO  - Started process 8512
+2025-03-15 22:18:34,755 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-30 14:20:30,546 DEBUG - Starting WinSW in service mode
+2025-03-30 14:20:30,757 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-30 14:20:30,797 INFO  - Started process 9068
+2025-03-30 14:20:30,809 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-30 20:35:35,509 DEBUG - Starting WinSW in service mode
+2025-03-30 20:35:36,047 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-30 20:35:36,130 INFO  - Started process 11400
+2025-03-30 20:35:36,145 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-03-31 19:35:28,467 DEBUG - Starting WinSW in service mode
+2025-03-31 19:35:28,647 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-03-31 19:35:28,676 INFO  - Started process 8308
+2025-03-31 19:35:28,688 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-04-01 21:09:59,663 DEBUG - Starting WinSW in service mode
+2025-04-01 21:09:59,854 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-04-01 21:09:59,901 INFO  - Started process 8352
+2025-04-01 21:09:59,915 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-04-04 16:28:01,359 DEBUG - Starting WinSW in service mode
+2025-04-04 16:28:01,534 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-04-04 16:28:01,576 INFO  - Started process 8424
+2025-04-04 16:28:01,589 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-04-05 12:34:09,746 DEBUG - Starting WinSW in service mode
+2025-04-05 12:34:09,949 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-04-05 12:34:09,981 INFO  - Started process 8316
+2025-04-05 12:34:09,996 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-04-08 07:38:25,226 DEBUG - Starting WinSW in service mode
+2025-04-08 07:38:25,406 INFO  - Starting java -jar "D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar"
+2025-04-08 07:38:25,448 INFO  - Started process 8512
+2025-04-08 07:38:25,461 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.SizeBasedRollingLogAppender
+2025-04-08 07:46:00,123 DEBUG - Starting WinSW in console mode
+2025-04-08 07:46:02,772 DEBUG - Starting WinSW in console mode
+2025-04-08 07:46:02,814 INFO  - Stopping service 'Oss Manager Service (OssManagerService)'...
+2025-04-08 07:46:02,821 INFO  - Service 'Oss Manager Service (OssManagerService)' stopped successfully.
+2025-04-08 07:46:02,822 INFO  - Stopping OssManagerService
+2025-04-08 07:46:02,822 DEBUG - ProcessKill 8512
+2025-04-08 07:46:02,824 DEBUG - Stopping process 8512...
+2025-04-08 07:46:02,871 DEBUG - Process 8512 canceled with code 130.
+2025-04-08 07:46:02,875 INFO  - Finished OssManagerService
+2025-04-08 07:46:03,310 DEBUG - Starting WinSW in console mode
+2025-04-08 07:46:05,370 DEBUG - Starting WinSW in console mode
+2025-04-08 07:46:05,399 INFO  - Uninstalling service 'Oss Manager Service (OssManagerService)'...
+2025-04-08 07:46:05,405 INFO  - Service 'Oss Manager Service (OssManagerService)' was uninstalled successfully.

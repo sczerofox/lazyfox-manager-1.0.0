@@ -1,0 +1,14 @@
+# 强制使用LF换行符的文件类型
+*.md text eol=lf
+*.json text eol=lf
+*.pom text eol=lf
+*.xml text eol=lf
+*.sh text eol=lf
+
+# 强制使用CRLF换行符的文件类型（适用于Windows批处理文件）
+*.bat text eol=crlf
+
+# 二进制文件，不进行换行符转换
+*.png binary
+*.jpg binary
+*.zip binary

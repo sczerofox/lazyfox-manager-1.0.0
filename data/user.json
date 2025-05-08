@@ -1,0 +1,107 @@
+{
+    "root":[
+        {
+            "user": "lazyfox1",
+            "password": "",
+            "date": "",
+            "node": "LazyFox",
+            "area": "",
+            "bucket": [
+                {
+                    "bucket": "1",
+                    "data":"",
+                    "node":"LazyFox",
+                    "path":[
+                        {
+                            "name":"file",
+                            "date":"",
+                            "bucket":"1",
+                            "parent":"",
+                            "path":[
+                                {
+                                    "name":"txt",
+                                    "date":"",
+                                    "bucket":"1",
+                                    "parent":"file",
+                                    "path":[
+                                        {
+
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bucket": "2",
+                    "data":"",
+                    "node":"LazyFox",
+                    "path":[
+                        {
+                            "name":"radio",
+                            "date":"",
+                            "bucket":"2",
+                            "parent":"",
+                            "path":[
+                                {
+                                    "name":"txt",
+                                    "date":"",
+                                    "bucket":"1",
+                                    "parent":"radio",
+                                    "path":[
+                                        {
+                                            
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "user": "lazyfox2",
+            "password": "",
+            "date": "",
+            "node": "LazyFox",
+            "area": "",
+            "bucket": [
+                {
+                    "bucket": "1",
+                    "data":"",
+                    "node":"LazyFox",
+                    "path": []
+                },
+                {
+                    "bucket": "2",
+                    "data":"",
+                    "node":"LazyFox",
+                    "path": []
+                }
+            ]
+        },
+        {
+            "user": "lazyfox3",
+            "password": "",
+            "date": "",
+            "node": "LazyFox",
+            "area": "",
+            "bucket": [
+                {
+                    "bucket": "1",
+                    "data":"",
+                    "node":"LazyFox",
+                    "path": []
+                },
+                {
+                    "bucket": "2",
+                    "data":"",
+                    "node":"LazyFox",
+                    "path": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+2025-03-30 14:20:34.715  INFO 9068 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 4122 (http)
+2025-03-30 14:20:34.740  INFO 9068 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-30 14:20:34.740  INFO 9068 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-03-30 14:20:34.919  INFO 9068 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-30 14:20:34.919  INFO 9068 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2015 ms
+2025-03-30 14:20:35.811  INFO 9068 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 4122 (http) with context path ''
+2025-03-30 14:20:35.819  INFO 9068 --- [           main] o.l.ossmanager.OssManagerApplication     : Started OssManagerApplication in 4.034 seconds (JVM running for 4.962)
+
+
+     ****     ****           **           ****     **           **             ********        ********       ******* 
+    /**/**   **/**          ****         /**/**   /**          ****           **//////**      /**/////       /**////**
+    /**//** ** /**         **//**        /**//**  /**         **//**         **      //       /**            /**   /** 
+    /** //***  /**        **  //**       /** //** /**        **  //**       /**               /*******       /*******  
+    /**  //*   /**       **********      /**  //**/**       **********      /**    *****      /**////        /**///**  
+    /**   /    /**      /**//////**      /**   //****      /**//////**      //**  ////**      /**            /**  //** 
+    /**        /**      /**     /**      /**    //***      /**     /**       //********       /********      /**   //**
+    //         //       //      //       //      ///       //      //         ////////        ////////       //     // 
+
+         :: Oss Manager ::             lazy fox                (v1.3.0)
+
+2025-03-30 20:35:38.434  INFO 11400 --- [           main] o.l.ossmanager.OssManagerApplication     : Starting OssManagerApplication using Java 21.0.2 on lazyfox-2465594872 with PID 11400 (D:\lazyfox-manager-1.1.4\boot\oss-manager-1.3.0.jar started by LAZYFOX-2465594$ in D:\lazyfox-manager-1.1.4\bin)
+2025-03-30 20:35:38.442  INFO 11400 --- [           main] o.l.ossmanager.OssManagerApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-03-30 20:35:39.826  INFO 11400 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 4122 (http)
+2025-03-30 20:35:39.858  INFO 11400 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-30 20:35:39.858  INFO 11400 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2025-03-30 20:35:40.026  INFO 11400 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
