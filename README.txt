@@ -55,9 +55,10 @@ JDK：1.8或更高版本（这是执行SpringBoot的基本要求 ）。
 双击 lazyfox-manager-1.0.0 下 或 lazyfox-oss-manager-1.0.0下
 的 bin 中的 start.bat 即可成功启动服务
 
+如果需要安装自启服务 你需要  在 lazyfox-manager-1.0.0 下的 bin 中 修改 oss-manager-service.xml 内的 路径为 你压缩的路径，否则 Jar 包运行不起来
 
 ----------------
---   	   连接
+-- 连接
 ----------------
 
 GitHub主页：https://github.com/sczerofox/lazyfox-manager-1.0.0 
