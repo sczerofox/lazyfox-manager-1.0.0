@@ -15,7 +15,6 @@
 
 说明接口文档：在 lazyfox-manager-1.1.4\resources  找到。
 
-
 ----------------
 --   发布位置
 ----------------
@@ -45,7 +44,7 @@ JDK：1.8或更高版本（这是执行SpringBoot的基本要求 ）。
 
 
 ------------------------------
--- 安装 OSS-Manager-1.0.0
+--  安装 OSS-Manager-1.0.0
 ------------------------------
 
 将存档解压到你想要存储二进制文件的地方，例如： 基于Windows的操作系统 Windows unzip lazyfox-manager-1.x.y.zip
@@ -55,6 +54,11 @@ JDK：1.8或更高版本（这是执行SpringBoot的基本要求 ）。
 双击 lazyfox-manager-1.0.0 下 或 lazyfox-oss-manager-1.0.0下
 的 bin 中的 start.bat 即可成功启动服务
 
+如果需要使用自启服务 请将 lazyfox-manager-1.1.4
+
+放在 D:\lazyfox-manager-1.1.4\bin 一样的路径 无论C: D: 最好放在 根目录下
+
+再次点击 installService.bat 即可安装和启动服务
 
 ----------------
 --   	   连接
